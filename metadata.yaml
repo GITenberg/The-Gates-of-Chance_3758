@@ -1,0 +1,27 @@
+_repo: The-Gates-of-Chance_3758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sutphen, Van Tassel
+    aliases:
+    - Sutphen, William Gilbert Van Tassel
+    - Sutphen, W. G. Van Tassel (William Gilbert Van Tassel)
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '1288'
+    url: http://www.gutenberg.org/2009/agents/1288
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PS'
+- GITenberg
+title: The Gates of Chance
+url: http://www.gutenberg.org/ebooks/3758
